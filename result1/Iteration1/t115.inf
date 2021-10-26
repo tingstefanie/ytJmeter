@@ -1,0 +1,12 @@
+[t115]
+SnapshotXmlFile=snapshot_115.xml
+ContentType=text/plain
+StepName=Custom Request: remoteSqlService_115
+Total=1
+FileName1=t115.UNK
+RequestHeaderFile=t115_RequestHeader.txt
+ResponseHeaderFile=t115_ResponseHeader.txt
+RequestBodyFile=t115_RequestBody.txt
+URL1=http://10.0.241.4:8075/account_server/remoting/remoteSqlService
+[AdditionalInfo]
+IsIgnorable=1

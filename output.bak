@@ -1,0 +1,4 @@
+错误: C:\Users\pengyuan\Documents\VuGen\Scripts\userid.dat : No such file or directory 	[MsgId: MERR-13874]
+错误: 无法打开表“C:\Users\pengyuan\Documents\VuGen\Scripts\userid.dat”。错误代码为“-2”。	[MsgId: MERR-13880]
+警告: 扩展 parameng.dll 报告在调用函数 ExtPerProcessInitialize 时出现错误 -2	[MsgId: MWAR-10485]
+错误: 线程上下文: 调用驱动程序的服务失败。原因 – 线程上下文未在此线程上初始化。	[MsgId: MERR-10176]

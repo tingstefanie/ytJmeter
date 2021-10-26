@@ -1,0 +1,5 @@
+"c\x00\x01m\x00\x07executeVt\x00\x7FSystem.Collections.Generic.List`1[[System.String, mscorlib,"
+" Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]l\x00\x00\x00\x01S\x00\xD5"
+" insert into FAP_OPERATIONLOG(ID,YEAR,NO_ID,SET_CODE,LOG_CONTENTS,LOG_TYPE,MAKE_USER,MAKE_DATE"
+",LOG_IP) values(642409,2016,'','000010000200001','登录系统',1,'admin',CONVERT(varchar(100)"
+", GETDATE(), 25),'192.168.137.1')zz"

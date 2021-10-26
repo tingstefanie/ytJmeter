@@ -1,0 +1,10 @@
+开始自动日志消息堆栈 – 迭代 1。	[MsgId: MMSG-10545]
+正在开始操作 Action。	[MsgId: MMSG-15919]
+Action.c(4): web_custom_request("remoteSqlService") 已成功，9 个正文字节，133 个标头字节，10 个成块开销字节  	[MsgId: MMSG-26385]
+Action.c(16): web_custom_request("remoteSqlService_2") 已成功，11 个正文字节，133 个标头字节，10 个成块开销字节  	[MsgId: MMSG-26385]
+Action.c(28): web_custom_request("remoteSqlService_3") 已成功，195 个正文字节，133 个标头字节，11 个成块开销字节  	[MsgId: MMSG-26385]
+Action.c(40): web_custom_request("remoteSqlService_4") 已成功，327 个正文字节，133 个标头字节，12 个成块开销字节  	[MsgId: MMSG-26385]
+Action.c(52): web_custom_request("remoteSqlService_5") 已成功，327 个正文字节，133 个标头字节，12 个成块开销字节  	[MsgId: MMSG-26385]
+Action.c(64): 错误 -27791: 服务器“10.0.241.4”已过早关闭连接  	[MsgId: MERR-27791]
+结束自动日志消息堆栈。	[MsgId: MMSG-10544]
+

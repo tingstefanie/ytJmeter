@@ -1,0 +1,11 @@
+[t397]
+FileName1=t397.html
+URL1=http://10.0.241.4:8075/account_server/remoting/remoteSqlService
+Total=1
+RequestHeaderFile=t397_RequestHeader.txt
+RequestBodyFile=t397_RequestBody.txt
+ResponseHeaderFile=t397_ResponseHeader.txt
+ContentType=application/x-hessian
+SnapshotXmlFile=snapshot_397.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t237]
+FileName1=t237.html
+URL1=http://10.0.241.4:8075/account_server/remoting/remoteSqlService
+Total=1
+RequestHeaderFile=t237_RequestHeader.txt
+RequestBodyFile=t237_RequestBody.txt
+ResponseHeaderFile=t237_ResponseHeader.txt
+ContentType=application/x-hessian
+SnapshotXmlFile=snapshot_237.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

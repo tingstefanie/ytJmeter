@@ -1,0 +1,12 @@
+[t42]
+SnapshotXmlFile=snapshot_42.xml
+ContentType=text/plain
+StepName=Custom Request: remoteSqlService_42
+Total=1
+FileName1=t42.UNK
+RequestHeaderFile=t42_RequestHeader.txt
+ResponseHeaderFile=t42_ResponseHeader.txt
+RequestBodyFile=t42_RequestBody.txt
+URL1=http://10.0.241.4:8075/account_server/remoting/remoteSqlService
+[AdditionalInfo]
+IsIgnorable=1

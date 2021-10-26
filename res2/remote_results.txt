@@ -1,0 +1,2 @@
+[Hosts]
+localhost=c:\users\administrator\desktop\adduser11\res2\localhost_1.eve

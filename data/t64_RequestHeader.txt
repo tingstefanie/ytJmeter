@@ -1,0 +1,7 @@
+POST /account_server/remoting/remoteSqlService HTTP/1.1
+Content-Type: text/xml
+Accept-Encoding: gzip, deflate
+Host: 10.0.241.4:8075
+Content-Length: 459
+Expect: 100-continue
+

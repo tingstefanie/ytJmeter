@@ -1,0 +1,12 @@
+[t34]
+SnapshotXmlFile=snapshot_34.xml
+ContentType=text/plain
+StepName=Custom Request: remoteSqlService_34
+Total=1
+FileName1=t34.UNK
+RequestHeaderFile=t34_RequestHeader.txt
+ResponseHeaderFile=t34_ResponseHeader.txt
+RequestBodyFile=t34_RequestBody.txt
+URL1=http://10.0.241.4:8075/account_server/remoting/remoteSqlService
+[AdditionalInfo]
+IsIgnorable=1
